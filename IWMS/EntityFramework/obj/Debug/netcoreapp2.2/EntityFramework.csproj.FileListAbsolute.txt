@@ -1,0 +1,42 @@
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFramework.deps.json
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFramework.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.AssemblyInfo.cs
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFramework.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\BusinessLogicShared.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\BusinessLogicShared.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFramework.deps.json
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFramework.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFramework.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\BusinessLogicShared.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\BusinessLogicShared.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.AssemblyInfo.cs
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFramework\obj\Debug\netcoreapp2.2\EntityFramework.csprojResolveAssemblyReference.cache

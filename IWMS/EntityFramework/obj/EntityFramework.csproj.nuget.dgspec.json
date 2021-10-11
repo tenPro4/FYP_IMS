@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFramework\\EntityFramework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yhuan\\Desktop\\IWMS\\BusinessLogicShared\\BusinessLogicShared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yhuan\\Desktop\\IWMS\\BusinessLogicShared\\BusinessLogicShared.csproj",
+        "projectName": "BusinessLogicShared",
+        "projectPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\BusinessLogicShared\\BusinessLogicShared.csproj",
+        "packagesPath": "C:\\Users\\yhuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\BusinessLogicShared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yhuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFrameworkExtension\\EntityFrameworkExtension.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFrameworkExtension\\EntityFrameworkExtension.csproj",
+        "projectName": "EntityFrameworkExtension",
+        "projectPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFrameworkExtension\\EntityFrameworkExtension.csproj",
+        "packagesPath": "C:\\Users\\yhuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFrameworkExtension\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yhuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.IO.FileSystem.AccessControl": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFramework\\EntityFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFramework\\EntityFramework.csproj",
+        "projectName": "EntityFramework",
+        "projectPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFramework\\EntityFramework.csproj",
+        "packagesPath": "C:\\Users\\yhuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yhuan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\yhuan\\Desktop\\IWMS\\BusinessLogicShared\\BusinessLogicShared.csproj": {
+                "projectPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\BusinessLogicShared\\BusinessLogicShared.csproj"
+              },
+              "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFrameworkExtension\\EntityFrameworkExtension.csproj": {
+                "projectPath": "C:\\Users\\yhuan\\Desktop\\IWMS\\EntityFrameworkExtension\\EntityFrameworkExtension.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "DynamicExpression": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "DynamicExpresso.Core": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

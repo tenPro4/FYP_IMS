@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "owner":1,
+        "name":"Board 1"
+    },
+    {
+        "id":2,
+        "owner":2,
+        "name":"Board 2"
+    },
+    {
+        "id":3,
+        "owner":3,
+        "name":"Board 3"
+    }
+]

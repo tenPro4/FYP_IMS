@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "color":"#FF5630",
+        "name":"Label 1"
+    },
+    {
+        "id":2,
+        "color":"##00875A",
+        "name":"Label 2"
+    },
+    {
+        "id":3,
+        "color":"#FFC400",
+        "name":"Label 3"
+    }
+]

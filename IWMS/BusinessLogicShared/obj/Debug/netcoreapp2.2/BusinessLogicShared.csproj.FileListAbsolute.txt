@@ -1,0 +1,26 @@
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\BusinessLogicShared.deps.json
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\BusinessLogicShared.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\BusinessLogicShared.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.csproj.CoreCompileInputs.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.AssemblyInfoInputs.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.AssemblyInfo.cs
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.csprojResolveAssemblyReference.cache
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\BusinessLogicShared.deps.json
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\BusinessLogicShared.dll
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\BusinessLogicShared.pdb
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.csproj.CoreCompileInputs.cache
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.AssemblyInfoInputs.cache
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.AssemblyInfo.cs
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.dll
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.pdb
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\yhuan\Desktop\IWMS\BusinessLogicShared\obj\Debug\netcoreapp2.2\BusinessLogicShared.csprojResolveAssemblyReference.cache

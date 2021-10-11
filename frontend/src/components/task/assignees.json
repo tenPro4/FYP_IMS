@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "avatar":"",
+        "name":"Assignee 1",
+        "username":"Peter"
+    },
+    {
+        "id":2,
+        "avatar":"",
+        "name":"Assignee 2",
+        "username":"Mask"
+    },
+    {
+        "id":3,
+        "avatar":"",
+        "name":"Assignee 3",
+        "username":"Lion"
+    }
+]

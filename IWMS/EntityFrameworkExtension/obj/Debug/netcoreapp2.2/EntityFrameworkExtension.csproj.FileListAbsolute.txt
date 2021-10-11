@@ -1,0 +1,26 @@
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.deps.json
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.csproj.CoreCompileInputs.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.AssemblyInfoInputs.cache
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.AssemblyInfo.cs
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.dll
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.pdb
+C:\Users\yhuan\Documents\Visual Studio 2017\Projects\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.csprojResolveAssemblyReference.cache
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.deps.json
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\EntityFrameworkExtension.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.csproj.CoreCompileInputs.cache
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.AssemblyInfoInputs.cache
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.AssemblyInfo.cs
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.pdb
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\bin\Debug\netcoreapp2.2\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\yhuan\Desktop\IWMS\EntityFrameworkExtension\obj\Debug\netcoreapp2.2\EntityFrameworkExtension.csprojResolveAssemblyReference.cache

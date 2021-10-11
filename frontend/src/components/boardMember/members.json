@@ -1,0 +1,25 @@
+[
+    {
+
+       "id":1,
+        "username":"User 1",
+       "avatar":{
+           "photo":"",
+           "name":""
+       },
+       "first_name":"u1",
+       "last_name":"ls1",
+       "email":"u1@gm.com"
+    },
+    {
+        "id":2,
+        "username":"Tser 2",
+        "avatar":{
+            "photo":"",
+            "name":""
+        },
+        "first_name":"u2",
+        "last_name":"ls2",
+        "email":"u2@gm.com"
+     }
+]
